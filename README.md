@@ -12,7 +12,7 @@ My Python learning journey, practice programs, and beginner projects.
 ## Topics I Am Learning
 
 
-##PYTHON TUTORIAL
+## PYTHON TUTORIAL
 
 
 Python HOME
@@ -123,7 +123,7 @@ Python User Input
 Python VirtualEnv
 
 
-##PYTHON CLASSES
+## PYTHON CLASSES
 
 
 Python OOP
